@@ -1,0 +1,31 @@
+
+.about{
+    text-align: center;
+}
+
+a{
+    color: white;
+    background-color: #7895CB;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #C5DFF8;
+}
+
+div>div,h1,h2{
+    background-color: #7895CB;
+}
+
+
+
+

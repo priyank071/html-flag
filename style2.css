@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flag{
+    height: 600px;
+    width: 900px;
+    background-color:#ff9933;
+    position: relative;
+    border: 10px solid black;
+}
+#white{
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    bottom: 200px;
+}
+#green{
+    background-color:#138808 ;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 400px;
+}
+#chakra{
+    height: 170px;
+    width: 170px;
+    background-color:white;
+    border: 5.5px solid #000080;
+    border-radius: 50%;
+    position: absolute;
+    top:12px;
+    left: 365px;
+    z-index: 4;
+}
+#second{
+    height: 183px;
+    width: 183px;
+    background-color:white;
+    border: 2px solid #000080;
+    border-radius: 50%;
+    position: absolute;
+    top: 9px;
+    left: 362px;
+    z-index: 3;
+}
+.line>.one{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+}
+.line>.two{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(15deg);
+}
+.line>.three{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(30deg);
+}
+.line>.four{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(45deg);
+}
+.line>.five{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(60deg);
+}
+.line>.six{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(75deg);
+}
+.line>.seven{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(90deg);
+}
+.line>.eight{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(105deg);
+}
+.line>.nine{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(120deg);
+}
+.line>.ten{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(135deg);
+}
+.line>.eleven{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(150deg);
+}
+.line>.twelve{
+    height: 3px;
+    width: 175px;
+    background-color: #000080;
+    position: absolute;
+    top: 85px;
+    transform: rotate(165deg);
+}
